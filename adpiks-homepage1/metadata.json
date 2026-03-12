@@ -1,0 +1,8 @@
+{
+  "name": "ADPiks 홈페이지",
+  "description": "A high-end, trendy digital marketing agency website redesign for ADPiks, featuring interactive AI strategy tools and smooth modern UI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
